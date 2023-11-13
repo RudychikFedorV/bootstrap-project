@@ -1,0 +1,11 @@
+@media (max-width: 1434px) {
+  .row__container {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 952px) {
+  .row__container {
+    justify-content: center;
+  }
+}
